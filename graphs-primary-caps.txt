@@ -1,0 +1,505 @@
+Number of Faults Injected:  1 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  2 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  4 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  8 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  16 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  32 
+
+Test Loss: 0.03458105
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  64 
+
+Test Loss: 0.03458162
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  128 
+
+Test Loss: 0.03458139
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  256 
+
+Test Loss: 0.03458150
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  512 
+
+Test Loss: 0.03458333
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  1024 
+
+Test Loss: 0.03458026
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  2048 
+
+Test Loss: 0.03458166
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  4096 
+
+Test Loss: 0.03458789
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  8192 
+
+Test Loss: 0.03458201
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  16384 
+
+Test Loss: 0.03457788
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  32768 
+
+Test Loss: 0.03459499
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  65536 
+
+Test Loss: 0.03457596
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (975/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 99% (965/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9902/10000)
+************************************************************************* 
+
+Number of Faults Injected:  131072 
+
+Test Loss: 0.03458584
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (952/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 99% (965/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9904/10000)
+************************************************************************* 
+
+Number of Faults Injected:  262144 
+
+Test Loss: 0.03458357
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1129/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (952/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (963/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9901/10000)
+************************************************************************* 
+
+Number of Faults Injected:  524288 
+
+Test Loss: 0.03457722
+
+Test Accuracy of     0: 99% (976/980)
+Test Accuracy of     1: 99% (1129/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (952/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9903/10000)
+************************************************************************* 
+
+Number of Faults Injected:  1048576 
+
+Test Loss: 0.03465475
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1129/1135)
+Test Accuracy of     2: 99% (1023/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 99% (965/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9901/10000)
+************************************************************************* 
+
+Number of Faults Injected:  2097152 
+
+Test Loss: 0.03462843
+
+Test Accuracy of     0: 99% (976/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (974/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (952/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (978/1009)
+
+Test Accuracy (Overall): 99% (9903/10000)
+************************************************************************* 
+
+Number of Faults Injected:  4194304 
+
+Test Loss: 0.03480062
+
+Test Accuracy of     0: 99% (976/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (976/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (952/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 97% (979/1009)
+
+Test Accuracy (Overall): 99% (9906/10000)
+************************************************************************* 
+
+Number of Faults Injected:  8388608 
+
+Test Loss: 0.03586830
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1129/1135)
+Test Accuracy of     2: 99% (1023/1032)
+Test Accuracy of     3: 98% (998/1010)
+Test Accuracy of     4: 99% (975/982)
+Test Accuracy of     5: 99% (888/892)
+Test Accuracy of     6: 99% (951/958)
+Test Accuracy of     7: 99% (1020/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 96% (977/1009)
+
+Test Accuracy (Overall): 99% (9900/10000)
+************************************************************************* 
+
+Number of Faults Injected:  16777216 
+
+Test Loss: 0.04101043
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1130/1135)
+Test Accuracy of     2: 99% (1024/1032)
+Test Accuracy of     3: 98% (997/1010)
+Test Accuracy of     4: 99% (977/982)
+Test Accuracy of     5: 99% (886/892)
+Test Accuracy of     6: 99% (950/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 99% (965/974)
+Test Accuracy of     9: 96% (976/1009)
+
+Test Accuracy (Overall): 98% (9899/10000)
+************************************************************************* 
+
+Number of Faults Injected:  33554432 
+
+Test Loss: 0.11822118
+
+Test Accuracy of     0: 99% (975/980)
+Test Accuracy of     1: 99% (1131/1135)
+Test Accuracy of     2: 99% (1022/1032)
+Test Accuracy of     3: 98% (992/1010)
+Test Accuracy of     4: 99% (980/982)
+Test Accuracy of     5: 99% (887/892)
+Test Accuracy of     6: 99% (950/958)
+Test Accuracy of     7: 99% (1019/1028)
+Test Accuracy of     8: 98% (963/974)
+Test Accuracy of     9: 96% (970/1009)
+
+Test Accuracy (Overall): 98% (9889/10000)
+************************************************************************* 
+
+Number of Faults Injected:  67108864 
+
+Test Loss: 0.76156178
+
+Test Accuracy of     0: 99% (971/980)
+Test Accuracy of     1: 98% (1117/1135)
+Test Accuracy of     2: 98% (1017/1032)
+Test Accuracy of     3: 95% (964/1010)
+Test Accuracy of     4: 99% (979/982)
+Test Accuracy of     5: 99% (884/892)
+Test Accuracy of     6: 98% (947/958)
+Test Accuracy of     7: 98% (1016/1028)
+Test Accuracy of     8: 98% (964/974)
+Test Accuracy of     9: 95% (959/1009)
+
+Test Accuracy (Overall): 98% (9818/10000)
+************************************************************************* 
+
+Number of Faults Injected:  134217728 
+
+Test Loss: 0.92354488
+
+Test Accuracy of     0: 81% (795/980)
+Test Accuracy of     1:  2% (34/1135)
+Test Accuracy of     2: 30% (310/1032)
+Test Accuracy of     3:  0% ( 0/1010)
+Test Accuracy of     4: 99% (975/982)
+Test Accuracy of     5: 35% (315/892)
+Test Accuracy of     6: 88% (844/958)
+Test Accuracy of     7: 49% (508/1028)
+Test Accuracy of     8: 98% (955/974)
+Test Accuracy of     9: 41% (414/1009)
+
+Test Accuracy (Overall): 51% (5150/10000)
+************************************************************************* 
+
+Wall time: 3h 1min 17s
