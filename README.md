@@ -80,7 +80,7 @@ while exponential_fault_growth < 169869311: # this number represents the number 
   By the time faults are injected randomly, the faulty weight values are loaded to the model itself for inference. 
 ## Results
 
-Here you can see the results followed by my explaination of the conclusion I came to based on fault injection in Capsule Netwrok trained on `FMNIST` dataset.
+Here you can see the results followed by my explanation of the conclusion I came to based on fault injection in Capsule Netwrok trained on `FMNIST` dataset.
  
  ![alt text](https://raw.githubusercontent.com/amir-ghz/Capsule-Networks-Reliability/11a1ae2f4c830ac3a01b043a77a709601fdf2e20/result1.svg)
  
